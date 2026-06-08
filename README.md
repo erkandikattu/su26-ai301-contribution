@@ -1,15 +1,23 @@
-# Contribution [#]: [Issue Title]
+# Contribution #1: Add compatibility test for $firstN (second pass)
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** 1  
+**Student:** Eerav Kandikattu  
+**Issue:** [GitHub issue link](https://github.com/documentdb/functional-tests/issues/198)  
+**Status:** Phase 1 Complete
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+I chose issue #198 "Add compatibility test for $firstN (second pass)" because it aligns with my Python experience and also my goal to improve my ability to write comprehensive compatibility/functional tests. The issue is labeled "good first issue" which fits my contribution experience level.
+
+I am interested in this issue because:
+1. I have implemented functional tests in Python projects, so I understand the basics of adding tests.
+2. The issue is for a single expression operator and seems contained and not overly complex for my first contribution.
+3. The maintainer opened the issue only a couple of weeks ago.
+4. I want to learn how to write compatibility tests in a working codebase.
+
+I have written a comment introducing myself, but I am still waiting on the maintainer to confirm availability and assign me to the issue.
 
 ---
 
